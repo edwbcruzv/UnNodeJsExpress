@@ -1,0 +1,28 @@
+{
+  "name": "UnNodeJsExpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwbcruzv/UnNodeJsExpress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwbcruzv/UnNodeJsExpress/issues"
+  },
+  "homepage": "https://github.com/edwbcruzv/UnNodeJsExpress#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "nodemon": "^2.0.15"
+  }
+}
